@@ -6,6 +6,7 @@ The format of the course is as follows:
 * Monday, meet in section with your TA. 
 * Wednesday, meet as a class for lecture. 
 
+On this page: 
 * TOC 
 {:toc}
 
