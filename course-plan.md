@@ -6,6 +6,8 @@ The format of the course is as follows:
 * Monday, meet in section with your TA. 
 * Wednesday, meet as a class for lecture. 
 
+(On the first week of class, we will meet in lecture both Monday and Wednesday. You'll then be assigned to a section, which will meet Mondays from Week 2 on.)
+
 On this page: 
 * TOC 
 {:toc}
@@ -38,7 +40,7 @@ Topic 1: Automata and computation:
 Topic 2: Machines for natural language grammar: 
 
 * Reading 1: How language works (Pinker)
-* Video 1: Machines for natural language grammar (54 min) (slides)
+* Video 3: Machines for natural language grammar (54 min) (slides)
 
 ## Module 2: Machine and human minds 
 
@@ -52,12 +54,12 @@ Topic 1: The Turing test:
 Topic 2: Levels of analysis: 
 
 * Reading 2: Vision (Marr) 
-* Video 1: Levels of analysis 
+* Video 1: Levels of analysis (32min)
 
 Topic 3: Simulating a mind: 
 
 * Chinese Room Argument (Searle)
-* Video 2: Simulation of a mind 
+* Video 2: Simulation of a mind (20min)
 
 ### Week 4: Consciousness and AI skepticism 
 
@@ -83,22 +85,22 @@ Topic 3: NN:
 
 * Background video: The Brain (38 min) 
 * Reading 2: The Nature of Code - ONLY sections 10.1, 2, 3, 6
-* Video 1, 2: Neural Networks - Part I (29 min),  Part II (15 min) (slides)
+* Video 3, 4: Neural Networks - Part I (29 min),  Part II (15 min) (slides)
 
-Topic 4: Tensorflow: 
+(*Optional*) Topic 4: Tensorflow: (*this is a fun and interesting chance to go a little deeper but is not required for the course*) 
 
-* Reading 3: Understanding neural networks with TensorFlow Playground
-* Video 3: Hands-On in the Playground (12 min)
-* Bonus material: Neural Networks and Hidden Layers- How it Works 
+* (*Optional*) [Reading 3: Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
+* (*Optional*) [Video 3: Hands-On in the Playground](https://youtu.be/ru9dXF04iSE) (12 min)
+* [Bonus material: Neural Networks and Hidden Layers- How it Works](https://youtu.be/7Vnis_Ax1JY) 
 
 ### Week 6: Ethics and fairness 
 
 Topic 1: algorithmic bias: 
 
-* Video 3: Gender Shades (5 min)
-* Reading 2: Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms
-* GIF: Human Learning
-* Optional: Coded Bias, a documentary that follows Joy Buolamwini from Gender Shades
+* Video 1: [Gender Shades](https://youtu.be/TWWsW1w-BVo) (5 min)
+* Reading 1: Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms
+* GIF: [Human Learning](https://giphy.com/gifs/fails-V9qNAGP6AxXk4)
+* Optional: [Coded Bias](https://searchworks.stanford.edu/view/13715356), a documentary that follows Joy Buolamwini from Gender Shades
 * Optional bonus material: GPT-3 and the problem of machine understanding 
 
 ## Module 4: Rational actors 
@@ -107,9 +109,9 @@ Topic 1: algorithmic bias:
 
 Topic 1: How brains work: 
 
-* Background video 1: A visual guide to Bayesian thinking (11 min)
+* Background video 1: [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8) (11 min)
 * Reading 1: Brains Make Decisions the Way Alan Turing Cracked Codes
-* Video 1: The real reason for brains (20 min)
+* Video 1: [The real reason for brains](https://www.youtube.com/watch?time_continue=10&v=7s0CpRfyYp8&feature=emb_logo) (20 min)
 * Video 2: Perception (46 min) (slides)
 
 Topic 2: How people reason (optimality) 
@@ -118,7 +120,7 @@ Topic 2: How people reason (optimality)
 
 Topic 3: How people reason (heuristics): 
 
-* Background video 2: Decision theory (sections 1-3) (58 min) (slides)
+* Background video: Decision theory (sections 1-3) (58 min) (slides)
 * Reading 2: Judgment under uncertainty (Tversky and Kahneman)
 
 
@@ -130,14 +132,14 @@ Topic 1: Theory of mind:
 * Video 1: What is Theory of Mind? (9 min) 
 * Reading 1: The Naive Utility Calculus (Jara-Ettinger et al.)
 * Grice, Logic and Conversation 
-* Video 5: Introduction to RSA 
+* Video 2: Introduction to RSA 
 
 Topic 2: Game theory 
 
 * Reading 2: Strategy of conflict (Schelling)
 * Reading 3: Playing for real (Binmore)
-* Video 2: Evolutionary Game theory (4 min)
-* Video 3: Game theory challenge (5 min)
+* Video 2: [Evolutionary Game theory](http://khanacademy.org/test-prep/mcat/individuals-and-society/biological-explanations-of-social-behavior-in-animals/v/evolutionary-game-theory) (4 min)
+* Video 3: [Game theory challenge](https://www.ted.com/talks/lucas_husted_game_theory_challenge_can_you_predict_human_behavior?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) (5 min)
 
 
 
